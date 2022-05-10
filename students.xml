@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Entities>
+    <student ID="deleteStudentTesting">
+        <Name>deleteStudentTesting</Name>
+        <Group>500</Group>
+    </student>
+    <student ID="2">
+        <Name>Geza</Name>
+        <Group>937</Group>
+    </student>
+    <student ID="156">
+        <Name>Gyuluska</Name>
+        <Group>365</Group>
+    </student>
+    <student ID="asd">
+        <Name>asd</Name>
+        <Group>500</Group>
+    </student>
+</Entities>

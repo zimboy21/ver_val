@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Entities>
+    <homework ID="1">
+        <Description>File</Description>
+        <Deadline>7</Deadline>
+        <Startline>6</Startline>
+    </homework>
+    <homework ID="2">
+        <Description>XML</Description>
+        <Deadline>8</Deadline>
+        <Startline>7</Startline>
+    </homework>
+    <homework ID="3">
+        <Description>gui</Description>
+        <Deadline>9</Deadline>
+        <Startline>7</Startline>
+    </homework>
+    <homework ID="updateHomeworkTest">
+        <Description>update test for hw</Description>
+        <Deadline>9</Deadline>
+        <Startline>6</Startline>
+    </homework>
+</Entities>
